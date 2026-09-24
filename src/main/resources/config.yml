@@ -1,0 +1,10 @@
+# MidnightServerSelector Configuration
+
+# Target Velocity Server Names (must match velocity.toml)
+servers:
+  lifesteal-lobby: "lifesteal-lobby"
+  special-lifesteal: "special-lifesteal"
+  survival-lobby: "survival-lobby"
+  minigames: "minigames"
+  practice: "practice"
+  event: "event"
